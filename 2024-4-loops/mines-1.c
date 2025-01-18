@@ -1,4 +1,4 @@
-#include <stdio.h>
+#in clude <stdio.h>
 int main(void)
 {
   int vectors[4][2]={{0,1},{0,-1},{1,0},{-1,0}};
